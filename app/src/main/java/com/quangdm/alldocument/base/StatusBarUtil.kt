@@ -12,7 +12,6 @@ import android.view.WindowManager
 
 class StatusBarUtil {
 
-
     companion object {
         @JvmStatic
         fun statusTranSlucent(activity: Activity?) {

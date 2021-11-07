@@ -27,4 +27,6 @@
     <color name="main">#93A1EF</color>
     <color name="nap">#3FB545</color>
     <color name="rut">#AF0225</color>
+
+    <color name="color_status_bar">#138819</color>
 </resources>
